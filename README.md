@@ -81,7 +81,7 @@ The search query can contain labels and date ranges. AND, OR and NOT are support
  A B C             -> A AND B AND C
  A (B, C D)        -> A AND (B OR C AND D)
  (A & B) | (C & D) -> (A AND B) OR (C AND D)
- A B C <2019.6     -> A AND B AND C AND <20190601000000000
+ A B C <2019.6.5   -> A AND B AND C AND <20190605000000000
 ```
 
 The result of the search queries is indices and label count:
