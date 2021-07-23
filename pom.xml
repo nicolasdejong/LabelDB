@@ -19,7 +19,7 @@
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
-            <groupId>Shiv</groupId>
+            <groupId>Shiv Rajput</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.1</version>
             <scope>test</scope>
